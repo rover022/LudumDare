@@ -26,6 +26,10 @@
     },
     {
       "name": "promise"
+    },
+    {
+      "name": "phaser",
+      "path": "./blibs/phaser"
     }
   ]
 }
